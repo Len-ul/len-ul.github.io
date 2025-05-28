@@ -1,0 +1,16 @@
+body {
+    cursor: url(https://gcore.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),
+        default;
+}
+a,
+img {
+    cursor: url(https://gcore.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),
+        default;
+}
+
+/*
+作者: 懒觉猫先生
+链接: https://blog.luoaicheng.cn/content/96/#%E5%89%8D%E8%A8%80
+来源: 懒猫
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+*/

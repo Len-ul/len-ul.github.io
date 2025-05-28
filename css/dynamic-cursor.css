@@ -1,0 +1,17 @@
+body {
+    cursor: none;
+  }
+  
+  a,
+  button,
+  .site-page,
+  .search-close-button,
+  .flink-item-icon img,
+  img,
+  .menus_item,
+  .toggle-menu,
+  #bookmark-it,
+  .rightside div,
+  input {
+    cursor: none !important;
+  }
