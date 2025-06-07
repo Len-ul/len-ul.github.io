@@ -2,7 +2,7 @@
 (function() {
   var a_idx = 0;
   //var a = new Array("墨", "竹", "梅", "兰", "菊", "松", "风", "雨", "山", "水");
-  var a = new Array("风", "花", "雪", "月", "琴", "棋", "书", "画", "诗", "酒", "茶", "花", "山", "水", "云" ,"竹");
+  var a = new Array("风", "花", "雪", "月", "琴", "棋", "书", "画", "诗", "酒", "茶", "香", "山", "水", "云" ,"竹");
   jQuery(document).ready(function($) {
     $("body").click(function(e) {
       var $i = $("<span/>").text(a[a_idx]);
